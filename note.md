@@ -1,3 +1,6 @@
+chirpy文档：
+https://chirpy.cotes.page/
+
 本地编译部署：
 在项目根目录下分别运行：
 ```bash

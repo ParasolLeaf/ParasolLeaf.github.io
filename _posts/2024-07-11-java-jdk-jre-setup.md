@@ -2,7 +2,7 @@
 title: Java、JDK、JRE 环境配置教程
 date: 2024-07-11 01:44:00 +0800
 categories: [环境配置, Java]
-tags: [JDK, JRE, Java, 配置]
+tags: [Java, 配置]
 author: wyt
 description: Windows下配置Java开发环境(JDK+JRE)
 ---

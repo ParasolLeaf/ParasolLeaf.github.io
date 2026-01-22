@@ -2,7 +2,7 @@
 title: Maven 项目依赖导入完整流程
 date: 2024-02-04 10:32:00 +0800
 categories: [环境配置, Java]
-tags: [Maven, 依赖管理, Java, pom.xml, 开发工具]
+tags: [Maven, 依赖管理, Java, xml, 开发工具]
 author: wyt
 description: Maven项目中通过pom.xml文件导入依赖
 ---
